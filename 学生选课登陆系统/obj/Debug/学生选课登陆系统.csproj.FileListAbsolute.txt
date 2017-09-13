@@ -1,0 +1,17 @@
+c:\users\zhongbo\documents\visual studio 2013\Projects\学生选课登陆系统\学生选课登陆系统\bin\Debug\学生选课登陆系统.exe.config
+c:\users\zhongbo\documents\visual studio 2013\Projects\学生选课登陆系统\学生选课登陆系统\bin\Debug\学生选课登陆系统.exe
+c:\users\zhongbo\documents\visual studio 2013\Projects\学生选课登陆系统\学生选课登陆系统\bin\Debug\学生选课登陆系统.pdb
+c:\users\zhongbo\documents\visual studio 2013\Projects\学生选课登陆系统\学生选课登陆系统\obj\Debug\学生选课登陆系统.csprojResolveAssemblyReference.cache
+c:\users\zhongbo\documents\visual studio 2013\Projects\学生选课登陆系统\学生选课登陆系统\obj\Debug\学生选课登陆系统.Form1.resources
+c:\users\zhongbo\documents\visual studio 2013\Projects\学生选课登陆系统\学生选课登陆系统\obj\Debug\学生选课登陆系统.Properties.Resources.resources
+c:\users\zhongbo\documents\visual studio 2013\Projects\学生选课登陆系统\学生选课登陆系统\obj\Debug\学生选课登陆系统.csproj.GenerateResource.Cache
+c:\users\zhongbo\documents\visual studio 2013\Projects\学生选课登陆系统\学生选课登陆系统\obj\Debug\学生选课登陆系统.exe
+c:\users\zhongbo\documents\visual studio 2013\Projects\学生选课登陆系统\学生选课登陆系统\obj\Debug\学生选课登陆系统.pdb
+c:\users\zhongbo\documents\visual studio 2013\Projects\学生选课登陆系统\学生选课登陆系统\obj\Debug\学生选课登陆系统.changepwd.resources
+C:\Users\zhongbo\Documents\Visual Studio 2013\Projects\学生选课登陆系统\学生选课登陆系统\obj\Debug\学生选课登陆系统.StudentForm.resources
+C:\Users\zhongbo\Documents\Visual Studio 2013\Projects\学生选课登陆系统\学生选课登陆系统\obj\Debug\学生选课登陆系统.TeacherForm.resources
+C:\Users\zhongbo\Documents\Visual Studio 2013\Projects\学生选课登陆系统\学生选课登陆系统\obj\Debug\学生选课登陆系统.CourseList.resources
+C:\Users\zhongbo\Documents\Visual Studio 2013\Projects\学生选课登陆系统\学生选课登陆系统\obj\Debug\学生选课登陆系统.CourseReq.resources
+C:\Users\zhongbo\Documents\Visual Studio 2013\Projects\学生选课登陆系统\学生选课登陆系统\obj\Debug\学生选课登陆系统.CourseResult.resources
+C:\Users\zhongbo\Documents\Visual Studio 2013\Projects\学生选课登陆系统\学生选课登陆系统\obj\Debug\学生选课登陆系统.StudentInfo.resources
+C:\Users\zhongbo\Documents\Visual Studio 2013\Projects\学生选课登陆系统\学生选课登陆系统\obj\Debug\学生选课登陆系统.TeacherInfo.resources
